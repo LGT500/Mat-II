@@ -1,3 +1,4 @@
+
 <html>
 <body>
 <h2>
@@ -5,8 +6,7 @@
 </h2>    
 <h8>
     
-    
-      de Freitas Armani
+     Armani
 </h8>
 
 <h1>
@@ -37,10 +37,15 @@
 <title>
 Floresta
 </title>
+
+<img src="https://cdn.pixabay.com/photo/2023/05/25/16/33/ai-generated-8017808_1280.jpg"/>
+
 </body>
 <style>
+ h1 { color: darkturquoise}
+        
+img { width=2px; height=1px}
    
 </style>
-
 
 </html>

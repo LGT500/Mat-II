@@ -8,6 +8,7 @@
     
      Armani
 </h8>
+<img src="https://cdn.pixabay.com/photo/2023/05/25/16/33/ai-generated-8017808_1280.jpg" class="minha-imagem">
 
 <h1>
 
@@ -38,14 +39,16 @@
 Floresta
 </title>
 
-<img src="https://cdn.pixabay.com/photo/2023/05/25/16/33/ai-generated-8017808_1280.jpg"/>
 
 </body>
 <style>
  h1 { color: darkturquoise}
-        
-img { width=2px; height=1px}
-   
+    
+  .minha-imagem{
+    border-radius: 20px;
+    width: 500px;
+    border: 44px solid #339;
+   }
 </style>
 
 </html>

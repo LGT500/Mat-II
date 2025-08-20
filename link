@@ -1,7 +1,7 @@
 <html>
 <body>
 <a href="https://fireboy-and-watergirl.gitlab.io/go/class-12.html">
-<button>clique aqui</button>
+<button class="botao">oferta unica</button>
 
 
 
@@ -11,7 +11,15 @@
 
 </body>
 <style>
-
+.botao{
+    background-color: crimson;
+    color: black;
+    border: 3px;
+border-radius: 30px;
+    cursor: grab;
+    font-size: 30px;
+        transition: 3s
+}
 
 
 
